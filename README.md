@@ -2,14 +2,11 @@
 💫 Hi 👋, I'm satish kumar
 *A passionat web-developer ||MERN Stack
 
-Email Me 👉 ✉ *satish202627@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉ *satish202627@gmail.com* 
 
-- 🔭 *I’m currently working on:* Enter your project info here
+- 🔭 *I’m currently working on:* e-commerce-website
 - 🌱 *I’m currently learning:* mern stack
-- 👯 *I’m looking to collaborate on:* filpkart clon 
-- 🤔 *I’m looking for help with:* smart city
-- 💬 *Ask me about:* Collaboration, Tech Support
-- 📫 *How to reach me:* satish202627@gmail.com
+   📫 *How to reach me:* satish202627@gmail.com
 - 😄 *Pronouns:* satish 
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 
