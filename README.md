@@ -7,8 +7,7 @@ Email Me 👉 ✉ *satish202627@gmail.com*
 - 🔭 *I’m currently working on:* e-commerce-website
 - 🌱 *I’m currently learning:* mern stack
    📫 *How to reach me:* satish202627@gmail.com
-- 😄 *Pronouns:* satish 
-- ⚡ *Fun fact:* I Love Tech and Tech Love Me
+
 
 
 
