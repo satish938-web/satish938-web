@@ -20,6 +20,7 @@ Email Me 👉 ✉ *satish202627@gmail.com*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ays.tih) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satish-kumar-4a3ab622b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aytish-update) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satish202627@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/satish_-kumar/)
 
 
 
