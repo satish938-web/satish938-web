@@ -1,11 +1,8 @@
 
 💫 Hi 👋, I'm satish kumar
-*A passionat web-developer ||MERN Stack
 
-Email Me 👉 ✉ *satish202627@gmail.com* 
 
-- 🔭 *I’m currently working on:* e-commerce-website
-- 🌱 *I’m currently learning:* mern stack
+Email Me 👉 *satish202627@gmail.com* 
    📫 *How to reach me:* satish202627@gmail.com
 
 
